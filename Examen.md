@@ -55,5 +55,6 @@ Haz una captura.
 - 18  Crea una unidad de red utilizando la carpeta creada en el punto anterior. Haz una captura.
   ## ![image](https://github.com/user-attachments/assets/ea7650ee-6c3e-4125-b7bf-e1298e7b1728)
 - 19  Crea una Tarea programada para qué el equipo se reinicie en 1 minuto. Haz una captura donde se vea claramente la hora del sistema y la hora de cuando se apagará la máquina
+  ## ![image](https://github.com/user-attachments/assets/a89a85dc-db42-4a29-8e84-0f31a9fd518e)
 - 20  Instala TeamViewer, avisa al profesor y conéctate a su ordenador. Haz una captura de la máquina del profesor
   ## ![image](https://github.com/user-attachments/assets/9890ef60-9b73-4d3d-bb3e-816688a9468e)
